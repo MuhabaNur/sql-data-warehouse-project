@@ -28,7 +28,7 @@ analytics teams.<br>
 
 Develop SQL-based analytics to deliver detailed insights into:
 
-**. Customer Behavior <br>
+**. Customer Behavior**<br>
 **. Product Performance** <br>
 **. Sales Trends** <br>
 These insights empower stakeholders with key business metrics, enabling strategic decision.making.
